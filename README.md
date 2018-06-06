@@ -1,4 +1,4 @@
-hack_assembler
+Moved to https://gitlab.com/mkourim/hack_assembler
 =================
 
 A program that generates binary code that can run as is on the hardware platform built in chapter 5.
